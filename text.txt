@@ -87,7 +87,7 @@
                                 <img src="img/icon_course_1.png" alt="" class="course_icon">
                                 <h2>Подход к образованию</h2>
                                 <p>Мы обеспечиваем практический подход и меньше теории.</p>
-                                <a href="#">Подать заявку сейчас <i class="fa fa-angle-right"></i></a>
+                                <a href="#">Подать заявку<i class="fa fa-angle-right"></i></a>
                             </div>
                         </div>
                     </div>
